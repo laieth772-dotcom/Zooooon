@@ -1,0 +1,6 @@
+{
+  "name": "Fad Zone",
+  "description": "فد زون - متجر الإلكترونيات الفاخرة والمنتجات الذكية الأكثر طلباً. تصفح واحجز الآن بسهولة عبر تيك توك.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
